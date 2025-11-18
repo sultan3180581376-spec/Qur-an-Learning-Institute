@@ -1,0 +1,7 @@
+{
+  "name": "Qur'an Learning Institute",
+  "description": "Leading online Qur'an academy offering live 1-on-1 classes and advanced AI tools for Nazra, Hifz, and Tajweed.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
